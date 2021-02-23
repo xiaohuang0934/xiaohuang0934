@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=1737384182)
-- 😄 <strong>前端</strong>      <span style='color:red'>HTML,CSS,JavaScript,Jquery,Vue</span>
-- 😄 <strong>后端</strong>      <span style='color:red'>C#,Java(学习中...)</span>
-- 😄 <strong>数据库</strong>    <span style='color:red'>MySQL,SQLServer</span>
-- 🤔 <strong>都不精通...</strong>
+- 😄 <strong>前端</strong>      HTML,CSS,JavaScript,Jquery,Vue
+- 😄 <strong>后端</strong>      C#,Java(学习中...)
+- 😄 <strong>数据库</strong>    MySQL,SQLServer
+- 🤔 <strong>都不精通......</strong>
 
 
