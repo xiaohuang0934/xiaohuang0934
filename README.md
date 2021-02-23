@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=1737384182)
-- 😄 <strong>前端</strong> HTML,CSS,JavaScript,Jquery,Vue
-- 😄 <strong>后端</strong> C#,Java(目前自学中...)
-- 😄 <strong>数据库</strong> MySQL,SQLServer
-- 🤔 <strong>都不精通</strong>
+strong{
+  color:"red";
+}
+- 😄 <strong>前端</strong>      HTML,CSS,JavaScript,Jquery,Vue
+- 😄 <strong>后端</strong>      C#,Java(学习中...)
+- 😄 <strong>数据库</strong>    MySQL,SQLServer
+- 🤔 <strong>都不精通...</strong>
 
 
