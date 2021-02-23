@@ -1,23 +1,9 @@
 ### 你好！欢迎光临 👋
 
-<!--
-**1737384182/1737384182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:blush: `前端` ：HTML,Css,JavaScript,Jquery,Vue
 
-Here are some ideas to get you started:
+:blush: `后端` ：C#,Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://github-readme-stats.vercel.app/api?username=1737384182)
-- 😄 <strong>前端</strong>      HTML,CSS,JavaScript,Jquery,Vue
-- 😄 <strong>后端</strong>      C#,Java(学习中...)
-- 😄 <strong>数据库</strong>    MySQL,SQLServer
-- 🤔 <strong>都不精通......</strong>
+:rainbow:`以上都不精通......`
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1737384182)](https://github.com/anuraghazra/github-readme-stats)
