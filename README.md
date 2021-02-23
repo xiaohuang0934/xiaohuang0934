@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=1737384182)
-strong{
+strong:{
   color:"red";
 }
 - 😄 <strong>前端</strong>      HTML,CSS,JavaScript,Jquery,Vue
