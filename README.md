@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 <p>html</p>前端 HTML,CSS,JavaScript,Jquery,Vue
-- 🌱 后端 C#,Java(目前自学中...)
-- 💬 数据库 MySQL,SQLServer
-- 🤔 都不精通
 ![](https://github-readme-stats.vercel.app/api?username=1737384182)
+- 😄 <strong>前端</strong> HTML,CSS,JavaScript,Jquery,Vue
+- 😄 <strong>后端</strong> C#,Java(目前自学中...)
+- 😄 <strong>数据库</strong> MySQL,SQLServer
+- 🤔 <strong>都不精通</strong>
+
 
