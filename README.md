@@ -1,10 +1,12 @@
 ### 你好！欢迎光临 👋
 
-:blush: `前端` ：HTML,Css,JavaScript,Jquery,Vue
+:blush: `前端` ：HTML,Css,JavaScript,Jquery,Vue(学习中)
 
-:blush: `后端` ：C#,Java
+:blush: `后端` ：C#,Java(学习中)
 
-:blush: `服务器` ：winServer,Linux(学习中)
+:blush: `服务器` ：WinServer,Linux(学习中)
+
+:blush: `数据库` ：MySQL,SQLServer
 
 :rainbow:`以上都不精通......`
 
